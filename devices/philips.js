@@ -1858,6 +1858,13 @@ module.exports = [
         extend: hueExtend.light_onoff_brightness_colortemp_color({colorTempRange: [153, 500]}),
     },
     {
+        zigbeeModel: ['929002376901'],
+        model: '929002376901',
+        vendor: 'Philips',
+        description: 'Philips Hue White and Color Ambiance Iris Smart Lamp',
+        extend: hueExtend.light_onoff_brightness_colortemp_color({colorTempRange: [153, 500]}),
+    },
+    {
         zigbeeModel: ['1742930P7'],
         model: '1742930P7',
         vendor: 'Philips',
